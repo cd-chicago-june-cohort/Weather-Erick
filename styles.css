@@ -1,0 +1,15 @@
+form{
+    padding: 20px;
+    width: 970px;
+}
+#text{
+    text-align: center;
+}
+#weatherInfo{
+    width: 300px;
+    height: 400px;
+    padding:20px;
+}
+#city{
+    text-align: left;
+}
